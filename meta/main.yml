@@ -1,0 +1,17 @@
+---
+galaxy_info:
+  author: Darren Warner
+  description: Manage SSL certificates
+  company: Kwaai Oak, Inc.
+  license: MIT
+  min_ansible_version: 1.9
+  platforms:
+    - name: Ubuntu
+      versions:
+        - Precise
+        - Trusty
+  categories:
+    - web
+    - networking
+    - security
+dependencies: []
